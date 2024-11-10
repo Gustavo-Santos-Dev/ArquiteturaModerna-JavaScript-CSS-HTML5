@@ -139,7 +139,7 @@ Agradecimentos especiais a Escola DNC, pelo aprendizado das aulas de HTML, CSS, 
 <br>
 
 <h2> 📄 Licença </h2>
-Este projeto é licenciado sob a Licença MIT. Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário. Veja o arquivo <a href="https://github.com/GuHenriqueSantos/LandingPageArquiteturaModerna-HTML5-CSS-JavaScript/blob/master/license">LICENSE</a> para mais detalhes.
+Este projeto é licenciado sob a Licença MIT. Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário. Veja o arquivo <a href="https://github.com/Gustavo-Santos-Dev/ArquiteturaModerna-JavaScript-CSS-HTML5/blob/master/license">LICENSE</a> para mais detalhes.
 
 <br>
 
