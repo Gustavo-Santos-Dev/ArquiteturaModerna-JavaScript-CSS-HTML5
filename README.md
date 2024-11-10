@@ -35,14 +35,14 @@
 
 <!--- Link do projeto -->
 <p align="center">
-     <a href="https://landingpagearquiteturamoderna.netlify.app/">📱 Viste o Projeto</a>
+     <a href="https://gustavo-santos-dev.github.io/ArquiteturaModerna-JavaScript-CSS-HTML5/">📱 Viste o Projeto</a>
 </p>
 <br>
 
 <!--- Imagens do projeto -->
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">🎨 Screenshots do projeto</h2>
 <p align="center">
-    <img src="https://github.com/GuHenriqueSantos/LandingPageArquiteturaModerna-HTML5-CSS-JavaScript/blob/master/assets/screencapture-landingpagearquiteturamoderna-netlify-app-2024-08-13-20_21_53.png?raw=true" width="100%">
+    <img src="https://github.com/Gustavo-Santos-Dev/ArquiteturaModerna-JavaScript-CSS-HTML5/blob/master/assets/screencapture-landingpagearquiteturamoderna-netlify-app-2024-08-13-20_21_53.png?raw=true" width="100%">
 </p>
 <br>
 
@@ -109,12 +109,12 @@ Antes de clonar o código, certifique-se de ter as seguintes ferramentas instala
 
 1. Clone o Repositório:
 ```bash
-git clone https://github.com/GuHenriqueSantos/LandingPageArquiteturaModerna-HTML5-CSS-JavaScript
+git clone https://github.com/Gustavo-Santos-Dev/ArquiteturaModerna-JavaScript-CSS-HTML5.git
 ```
 
 2. Entre no Diretório do Projeto:
 ```bash
-cd LandingPageArquiteturaModerna-HTML5-CSS-JavaScript
+cd ArquiteturaModerna-JavaScript-CSS-HTML5
 ````
 
 <br>
