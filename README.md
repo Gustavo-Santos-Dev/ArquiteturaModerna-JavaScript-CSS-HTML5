@@ -1,11 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=faa75f">
 
-<!--- Logo -->
-<div align=center>
-  <img width=40% height=auto src="https://github.com/user-attachments/assets/1107f6e7-44ff-47b7-a3e3-cd4ac636c272" />
-</div>
-<br>
-
 <h1 align=center>
 <!--- Titulo do projeto -->
   🏛️ Arquitetura Moderna - Landing Page
